@@ -5,8 +5,5 @@ In this notebook I clean the Disaster Tweets dataset from Kaggle and fit it to a
 
 Packages most utilized are
 
-pandas \n
-re \n
-sklearn /n
-nltk /n
+pandas, re, sklearn, nltk 
 
